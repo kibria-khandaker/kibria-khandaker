@@ -15,7 +15,7 @@ take on challenges that will expand my learning and building skills.
 - 💬 Ask me about REACT / JavaScript / WordPress / HTML / CSS / Node.js / MongoDB 
 - 📫 How to reach me: kibria6262@gmail.com || www.netkib.com 
 - 👨‍💻 My Portfolio and Projects are available at [www.netkib.com](www.netkib.com)
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VqNF-KdocXEGAv-zO534lSdkuimMxlNA/view?usp=sharing](https://drive.google.com/file/d/1VqNF-KdocXEGAv-zO534lSdkuimMxlNA/view?usp=sharing)
+- 📄 Know about me With [ Resume ](https://drive.google.com/file/d/1VqNF-KdocXEGAv-zO534lSdkuimMxlNA/view?usp=sharing)
 <!-- - 📝 I regularly write articles on [www.netkib.com](www.netkib.com) -->
 
 
