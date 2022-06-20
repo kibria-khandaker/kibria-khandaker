@@ -1,13 +1,17 @@
-### Hi there 👋, My name is Golam Kibria
-#### I am Front-End Developer | MERN Stack Developer
 ![I am Front-End Developer | MERN Stack Developer](https://raw.githubusercontent.com/kibria-khandaker/kibria-khandaker/main/Front-end-developer-MERN-Stack-developer.png)
 
-JavaScript(ES-6), ReactJs, RAST-API, Server(Node Js, Express-Js, MongoDB). CMS:(WordPress) PHP(familiar), HTML5, CSS3, Tailwind, Bootstrap,
+### Hi there 👋, My name is Golam Kibria
+#### A Front-End | MERN Stack Developer
 
-Skills: REACT / JavaScript / WordPress / HTML / CSS / Node.js / MongoDB
 
-- 🌱 I’m currently learning Typescript, React Native, Next JS, Shopify, SASS 
-- 🤔 I’m looking for help with a remote job 
+I am a web developer having an urge for creating elegant solutions within the least possible time. I am able to work 
+in both self-starting and collaborative environments on achieving results under strict deadlines. I am passionate to 
+take on challenges that will expand my learning and building skills.
+
+
+- ✔ **Skills:** REACT / JavaScript / WordPress / HTML / CSS / Node.js / MongoDB
+- 🌱 I’m currently learning: Typescript, React Native, Next JS, Shopify, SASS 
+- 🤔 I’m looking for help with a **remote job** 
 - 💬 Ask me about REACT / JavaScript / WordPress / HTML / CSS / Node.js / MongoDB 
 - 📫 How to reach me: kibria6262@gmail.com || www.netkib.com 
 
