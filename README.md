@@ -11,7 +11,7 @@ take on challenges that will expand my learning and building skills.
 
 - ✔ **Skills:** REACT / JavaScript / WordPress / HTML / CSS / Node.js / MongoDB
 - 🌱 I’m currently learning: Typescript, React Native, Next JS, Shopify, SASS 
-- 🤔 I’m looking for help with a **remote job** 
+- 🤔 I’m looking for help a **remote job** 
 - 💬 Ask me about REACT / JavaScript / WordPress / HTML / CSS / Node.js / MongoDB 
 - 📫 How to reach me: kibria6262@gmail.com || www.netkib.com 
 
