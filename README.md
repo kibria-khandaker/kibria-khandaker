@@ -2,7 +2,7 @@
 
 ### Hi there 👋, My name is Golam Kibria
 
-#### A Front-End | MERN Stack Developer | WordPress Developer
+#### I am ( Front-End | MERN Stack | WordPress) Developer
 
 I am a web developer having an urge for creating elegant solutions within the least possible time. I am able to work
 in both self-starting and collaborative environments on achieving results under strict deadlines. I am passionate to
