@@ -8,7 +8,9 @@ I am a web developer having an urge for creating elegant solutions within the le
 in both self-starting and collaborative environments on achieving results under strict deadlines. I am passionate to
 take on challenges that will expand my learning and building skills.
 
-- ⚡️ **Skills:** ✔ React ,  ✔ JavaScript ,   ✔ WordPress ,   ✔ HTML ,   ✔ CSS ,   ✔ Bootstrap ,   ✔ TailwindCSS ,   ✔ MilligramCSS ,   ✔ Node.js ,   ✔ MongoDB
+
+⚡️ **Skills:** ✔ React ,  ✔ JavaScript ,   ✔ WordPress ,   ✔ HTML ,   ✔ CSS ,   ✔ Bootstrap ,   ✔ TailwindCSS ,   ✔ MilligramCSS ,   ✔ Node.js ,   ✔ MongoDB
+
 - 🌱 I’m currently learning: Typescript, React Native, Next JS, Shopify, SASS
 - 🤔 I’m looking for help a **remote job**
 - 💬 Ask me about React.js / JavaScript / WordPress / HTML / CSS / Node.js / MongoDB
