@@ -134,6 +134,7 @@ take on challenges that will expand my learning and building skills.
 <br/>
 
 ### Where to find me
+`Just type "From your GitHub profile" before your massage text to identify`
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kibria-khandaker/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kibriakhandaker)
