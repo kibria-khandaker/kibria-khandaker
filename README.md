@@ -42,6 +42,9 @@ take on challenges that will expand my learning and building skills.
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://railway.app/" target="_blank" rel="noreferrer"> <img src="https://railway.app/brand/logo-dark.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_477db83f729d63210139ec7cd29c1351/render-render.png" alt="heroku" width="40" height="40"/> </a>
+<a href="https://www.cyclic.sh/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/77067997?s=200&v=4" alt="heroku" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 </p>
