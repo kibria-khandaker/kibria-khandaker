@@ -37,7 +37,6 @@
 <!-- ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white) -->
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
 
-<br/>
 
 
 #### I am ( Front-End | MERN Stack | WordPress) Developer
