@@ -2,7 +2,7 @@
 
 <!-- ## Hey!, i'm Golam Kibria! 👋 -->
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. 👋</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> Hey! 👋</h1>
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -20,7 +20,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-43853D?style=flat-square&logo=MongoDB&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Express-D4D4D4?style=flat-square&logo=Express&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-ffa000?style=flat-square&logo=Postman&logoColor=ffffff)
@@ -37,6 +36,9 @@
 <!-- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) -->
 <!-- ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white) -->
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
+
+<br/>
+
 
 #### I am ( Front-End | MERN Stack | WordPress) Developer
 
@@ -56,6 +58,9 @@ take on challenges that will expand my learning and building skills.
 - 📄 Know about me With [ Resume ](https://drive.google.com/file/d/1VqNF-KdocXEGAv-zO534lSdkuimMxlNA/view?usp=sharing)
 <!-- - 📝 I regularly write articles on [www.netkib.com](www.netkib.com) -->
 
+<br/>
+
+![Profile views](https://gpvc.arturio.dev/kibria-khandaker)
 
 
 <!-- 
@@ -98,12 +103,13 @@ take on challenges that will expand my learning and building skills.
 <!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  -->
 
----
 
-### Numbers
+<br/>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kibria-khandaker&show_icons=true&locale=en&layout=compact" alt="kibria-khandaker" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kibria-khandaker&show_icons=true&locale=en" alt="kibria-khandaker" /></p>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kibria-khandaker&show_icons=true&locale=en&layout=compact" alt="kibria-khandaker" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kibria-khandaker&show_icons=true&locale=en" alt="kibria-khandaker" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kibria-khandaker&" alt="kibria-khandaker" /></p> -->
 
@@ -111,10 +117,22 @@ take on challenges that will expand my learning and building skills.
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/kibria-khandaker) -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kibria-khandaker)
 
-![Profile views](https://gpvc.arturio.dev/kibria-khandaker)
 
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kibria-khandaker) -->
+
+
+![kibria-khandaker's Stats](https://github-readme-stats.vercel.app/api?username=kibria-khandaker&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![kibria-khandaker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kibria-khandaker&theme=tokyonight&hide_border=true)
+
+![kibria-khandaker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kibria-khandaker&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+
+
+
+
+<br/>
 
 ### Where to find me
 
