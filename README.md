@@ -2,7 +2,7 @@
 
 <!-- ## Hey!, i'm Golam Kibria! 👋 -->
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> Hey! 👋</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1678165280/64494/trampoline2.gif?1678165280" width="28"/> Hey! <img src="https://emojis.slackmojis.com/emojis/images/1643514441/4229/blob-clap.gif?1643514441" width="28"/> </h1>
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -49,17 +49,27 @@ take on challenges that will expand my learning and building skills.
 
 <!-- ⚡️ **Skills:** ✔ React ,  ✔ JavaScript ,   ✔ WordPress ,   ✔ HTML ,   ✔ CSS ,   ✔ Bootstrap ,   ✔ TailwindCSS ,   ✔ MilligramCSS ,   ✔ Node.js ,   ✔ MongoDB -->
 
-<!-- - 🌱 I’m currently learning: Typescript, React Native, Next JS, Shopify, SASS -->
-- 🤔 I’m looking for help a **remote job**
-- 💬 Ask me about React.js / JavaScript / PHP / WordPress / HTML / CSS / Node.js / MongoDB / React / Laravel / Bootstrap / TailwindCSS
-- 📫 How to reach me: kibria6262@gmail.com || www.netkib.com
-- 👨‍💻 My Portfolio and Projects are available at [www.netkib.com](www.netkib.com)
-- 📄 Know about me With [ Resume ](https://drive.google.com/file/d/1VqNF-KdocXEGAv-zO534lSdkuimMxlNA/view?usp=sharing)
+<!--📄💬 👨‍💻📫-🤔 🌱 I’m currently learning: Typescript, React Native, Next JS, Shopify, SASS -->
+- <img src="https://emojis.slackmojis.com/emojis/images/1643510189/49351/eyeslooking.gif?1643510189" width="15"/> I’m looking for help a **remote job**
+- <img src="https://emojis.slackmojis.com/emojis/images/1643511855/42121/question.gif?1643511855" width="12"/> Ask me about React.js / JavaScript / PHP / WordPress / HTML / CSS / Node.js / MongoDB / React / Laravel / Bootstrap / TailwindCSS
+- <img src="https://emojis.slackmojis.com/emojis/images/1643516738/27867/calling.gif?1643516738" width="12"/> How to reach me: kibria6262@gmail.com || www.netkib.com
+- <img src="https://emojis.slackmojis.com/emojis/images/1643514841/8541/computercat.gif?1643514841" width="12"/> My Portfolio and Projects are available at [www.netkib.com](www.netkib.com)
+- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/> Know about me With [ Resume ](https://drive.google.com/file/d/1VqNF-KdocXEGAv-zO534lSdkuimMxlNA/view?usp=sharing)
 <!-- - 📝 I regularly write articles on [www.netkib.com](www.netkib.com) -->
 
 <br/>
 
 ![Profile views](https://gpvc.arturio.dev/kibria-khandaker)
+
+
+<br/>
+
+### Where to find me
+`Just type "From your GitHub profile" before your massage text to identify`
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kibria-khandaker/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kibriakhandaker)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/amikibria)
 
 
 <!-- 
@@ -130,12 +140,3 @@ take on challenges that will expand my learning and building skills.
 
 
 
-
-<br/>
-
-### Where to find me
-`Just type "From your GitHub profile" before your massage text to identify`
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kibria-khandaker/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kibriakhandaker)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/amikibria)
