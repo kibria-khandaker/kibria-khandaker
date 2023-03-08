@@ -38,13 +38,11 @@
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
 
 
-
 #### I am ( Front-End | MERN Stack | WordPress) Developer
 
 I am a web developer having an urge for creating elegant solutions within the least possible time. I am able to work
 in both self-starting and collaborative environments on achieving results under strict deadlines. I am passionate to
 take on challenges that will expand my learning and building skills.
-
 
 
 <!-- ⚡️ **Skills:** ✔ React ,  ✔ JavaScript ,   ✔ WordPress ,   ✔ HTML ,   ✔ CSS ,   ✔ Bootstrap ,   ✔ TailwindCSS ,   ✔ MilligramCSS ,   ✔ Node.js ,   ✔ MongoDB -->
@@ -129,7 +127,6 @@ take on challenges that will expand my learning and building skills.
 <!-- ![GitHub metrics](https://metrics.lecoq.io/kibria-khandaker) -->
 
 
-
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kibria-khandaker) -->
 
 
@@ -138,7 +135,4 @@ take on challenges that will expand my learning and building skills.
 ![kibria-khandaker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kibria-khandaker&theme=tokyonight&hide_border=true)
 
 ![kibria-khandaker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kibria-khandaker&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-
-
 
