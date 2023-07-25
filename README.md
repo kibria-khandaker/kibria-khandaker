@@ -6,23 +6,26 @@
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-0081CB?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=Express&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-FFFFFF?style=flat-square&logo=Mongoose&logoColor=880000)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-43853D?style=flat-square&logo=MongoDB&logoColor=white)
-![Expressjs](https://img.shields.io/badge/Express-D4D4D4?style=flat-square&logo=Express&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-ffa000?style=flat-square&logo=Postman&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=MySQL&logoColor=21759B)
+<!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) -->
+<!-- ![Postman](https://img.shields.io/badge/Postman-ffa000?style=flat-square&logo=Postman&logoColor=ffffff) -->
+<!-- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) -->
 
 
 <!-- ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) -->
@@ -38,7 +41,7 @@
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
 
 
-#### I am ( Front-End | MERN Stack | WordPress) Developer
+<!-- #### Hello ! -->
 
 I am a web developer having an urge for creating elegant solutions within the least possible time. I am able to work
 in both self-starting and collaborative environments on achieving results under strict deadlines. I am passionate to
@@ -49,15 +52,15 @@ take on challenges that will expand my learning and building skills.
 
 <!--📄💬 👨‍💻📫-🤔 🌱 I’m currently learning: Typescript, React Native, Next JS, Shopify, SASS -->
 - <img src="https://emojis.slackmojis.com/emojis/images/1643510189/49351/eyeslooking.gif?1643510189" width="15"/> I’m looking for help a **remote job**
-- <img src="https://emojis.slackmojis.com/emojis/images/1643511855/42121/question.gif?1643511855" width="12"/> Ask me about React.js / JavaScript / PHP / WordPress / HTML / CSS / Node.js / MongoDB / React / Laravel / Bootstrap / TailwindCSS
+- <img src="https://emojis.slackmojis.com/emojis/images/1643511855/42121/question.gif?1643511855" width="12"/> Ask me about React.js / JavaScript / TypeScript / PHP / WordPress / HTML / CSS / Node.js / MongoDB / MySQL / React / Laravel / Bootstrap / TailwindCSS
 - <img src="https://emojis.slackmojis.com/emojis/images/1643516738/27867/calling.gif?1643516738" width="12"/> How to reach me: kibria6262@gmail.com || <a href="tel:+8801913595268"> +8801913595268 </a> || <a href="https://wa.me/+8801913595268"> With WhatsApp </a> 
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514841/8541/computercat.gif?1643514841" width="12"/> My Portfolio and Projects are available at [www.netkib.com](www.netkib.com)
 - <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/> Know about me With [ Resume ](https://drive.google.com/file/d/1VqNF-KdocXEGAv-zO534lSdkuimMxlNA/view?usp=sharing)
 <!-- - 📝 I regularly write articles on [www.netkib.com](www.netkib.com) -->
 
-<br/>
+<!-- <br/> -->
 
-![Profile views](https://gpvc.arturio.dev/kibria-khandaker)
+<!-- ![Profile views](https://gpvc.arturio.dev/kibria-khandaker) -->
 
 
 <br/>
