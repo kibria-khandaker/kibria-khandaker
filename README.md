@@ -25,7 +25,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-43853D?style=flat-square&logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-F2F2F2?style=flat-square&logo=MySQL&logoColor=21759B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F2F2F2?style=flat-square&logo=PostgreSQL&logoColor=336791)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=ffffff)
 <!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) -->
 <!-- ![Postman](https://img.shields.io/badge/Postman-ffa000?style=flat-square&logo=Postman&logoColor=ffffff) -->
 <!-- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) -->
