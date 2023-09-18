@@ -24,7 +24,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-36b7f0?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-43853D?style=flat-square&logo=MongoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-F2F2F2?style=flat-square&logo=MySQL&logoColor=21759B)
+![MySQL](https://img.shields.io/badge/MySQL-F2F2F2?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=005e86)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F2F2F2?style=flat-square&logo=PostgreSQL&logoColor=ffffff&labelColor=blue)
 
 
@@ -34,9 +34,15 @@
 
 
 <!-- gdfgfd  
-![A_XXXX_A](https://img.shields.io/badge/A___A-red?style=flat-square&logo=A_XXXX_A&logoColor=ffffff&labelColor=blue&color=ffffff)
+![Laravel](https://img.shields.io/badge/Laravel-B_XXXX_B?style=flat-square&logo=laravel&logoColor=FF2D20&labelColor=FFFFFF&color=FF2D20)
+![A_XXXX_A](https://img.shields.io/badge/A_XXXX_A-B_XXXX_B?style=flat-square&logo=A_XXXX_A&logoColor=C_XXXX_C&labelColor=D_XXXX_D&color=E_XXXX_E)
 
 A_XXXX_A = skill name
+B_XXXX_B = total BG-Color
+C_XXXX_C = logo/icon self color
+D_XXXX_D = logo/icon BG-color
+E_XXXX_E = right side text bg-color
+
 
  -->
 
