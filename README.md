@@ -76,6 +76,7 @@ in both self-starting and collaborative environments on achieving results under 
 take on challenges that will expand my learning and building skills.
 
 
+
 <!-- ⚡️ **Skills:** ✔ React ,  ✔ JavaScript ,   ✔ WordPress ,   ✔ HTML ,   ✔ CSS ,   ✔ Bootstrap ,   ✔ TailwindCSS ,   ✔ MilligramCSS ,   ✔ Node.js ,   ✔ MongoDB -->
 
 <!--📄💬 👨‍💻📫-🤔 🌱 I’m currently learning: Typescript, React Native, Next JS, Shopify, SASS -->
@@ -93,8 +94,8 @@ take on challenges that will expand my learning and building skills.
 
 <br/>
 
-### Find out on social platforms:
-`Just type "From your GitHub profile" before your massage text to identify`
+*Just type* **"`From your GitHub profile`"** *with the original text before sending message. it's help to identify you, (it's not mandatory)*
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kibria-khandaker/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/amikibria)
