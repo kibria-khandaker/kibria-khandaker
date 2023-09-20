@@ -93,13 +93,13 @@ take on challenges that will expand my learning and building skills.
 
 <br/>
 
-### Where to find me
+### Find out on social platforms:
 `Just type "From your GitHub profile" before your massage text to identify`
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kibria-khandaker/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kibriakhandaker)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/amikibria)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/+8801913595268)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kibriakhandaker) -->
 <!-- [![Call](https://img.shields.io/badge/Click_to_phone_call-green?style=flat-square&logo=call&logoColor=white)](tel:+8801913595268) -->
 
 
