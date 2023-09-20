@@ -23,8 +23,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-254bdd?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-36b7f0?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![AntDesign](https://img.shields.io/badge/Ant_Design-blue?style=flat-square&logo=AntDesign&logoColor=ffffff&labelColor=f63444)
 ![MongoDB](https://img.shields.io/badge/MongoDB-43853D?style=flat-square&logo=MongoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-F2F2F2?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=005e86)
+![MySQL](https://img.shields.io/badge/My-SQL-F2F2F2?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=005e86)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F2F2F2?style=flat-square&logo=PostgreSQL&logoColor=ffffff&labelColor=blue)
 
 
