@@ -5,7 +5,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1678165280/64494/trampoline2.gif?1678165280" width="28"/> Hey! <img src="https://emojis.slackmojis.com/emojis/images/1643514441/4229/blob-clap.gif?1643514441" width="28"/> </h1>
 
 
-![Nextjs](https://img.shields.io/badge/Nextjs-F2F2F2?style=flat-square&logo=Nextjs&logoColor=ffffff&labelColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-F2F2F2?style=flat-square&logo=Next.js&logoColor=ffffff&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0081CB?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
