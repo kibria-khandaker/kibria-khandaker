@@ -77,11 +77,12 @@ in both self-starting and collaborative environments on achieving results under 
 take on challenges that will expand my learning and building skills.
 
 
+**"`I want to work with senior and expert team`"**
 
 <!-- ⚡️ **Skills:** ✔ React ,  ✔ JavaScript ,   ✔ WordPress ,   ✔ HTML ,   ✔ CSS ,   ✔ Bootstrap ,   ✔ TailwindCSS ,   ✔ MilligramCSS ,   ✔ Node.js ,   ✔ MongoDB -->
 
 <!--📄💬 👨‍💻📫-🤔 🌱 I’m currently learning: Typescript, React Native, Next JS, Shopify, SASS -->
-- <img src="https://emojis.slackmojis.com/emojis/images/1643510189/49351/eyeslooking.gif?1643510189" width="15"/>  I’m looking for help a **remote job**
+- <img src="https://emojis.slackmojis.com/emojis/images/1643510189/49351/eyeslooking.gif?1643510189" width="15"/>  I’m looking for help a **job with senior and expert team**
 - <img src="https://emojis.slackmojis.com/emojis/images/1643511855/42121/question.gif?1643511855" width="12"/>  Ask me about my Skills
 - <img src="https://emojis.slackmojis.com/emojis/images/1643516738/27867/calling.gif?1643516738" width="12"/>  How to reach me: kibria6262@gmail.com || <a href="tel:+8801913595268"> +8801913595268 </a> || <a href="https://wa.me/+8801913595268"> With WhatsApp </a> 
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514841/8541/computercat.gif?1643514841" width="12"/>  My Portfolio and Projects are available at [www.netkib.com](www.netkib.com)
