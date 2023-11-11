@@ -77,7 +77,7 @@ in both self-starting and collaborative environments on achieving results under 
 take on challenges that will expand my learning and building skills.
 
 
-**<h4 color:sandybrown  >I want to work with a senior and expert team. Because, if i get chance to learn for anywhere, i able to work hard.</h4>**
+**<h4 color:green  >I want to work with a senior and expert team. Because, if i get chance to learn for anywhere, i able to work hard.</h4>**
 
 <!-- ⚡️ **Skills:** ✔ React ,  ✔ JavaScript ,   ✔ WordPress ,   ✔ HTML ,   ✔ CSS ,   ✔ Bootstrap ,   ✔ TailwindCSS ,   ✔ MilligramCSS ,   ✔ Node.js ,   ✔ MongoDB -->
 
